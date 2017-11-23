@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PasswordGenerator</string>
+    <string name="main_activity">PasswordGenerator</string>
+    <string name="for_thread_string">For Thread:</string>
+    <string name="for_async_string">For AsyncTask:</string>
+    <string name="password_count_str">Select Password Count:</string>
+    <string name="password_length_str">Select Password Length:</string>
+
+    <string name="generate_btn">Generate</string>
+    <string name="finish_btn">Finish</string>
+
+    <string name="generating_pwds_dialog">Generating Passwords</string>
+
+    <string name="async_pwd_scrollview_head">Passwords generated using AsyncTask:</string>
+    <string name="thread_pwd_scrollview_head">Passwords generated using Thread:</string>
+</resources>
